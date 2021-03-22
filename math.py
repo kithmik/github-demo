@@ -1,21 +1,16 @@
+#add implementation
 def add(x,y):
-    return (x+y)
+    pass
 
+#subtract implementation
 def subtract(x,y):
-    return (x-y)
+    pass
 
+#multiplyimplementation
 def multiply(a,b):
-    return (a*b)
+    pass
 
+#divide implementation
 def divide(x,y):
-    return (x/y)
+    pass
 
-==========
-    if y==0
-       return Divide_by_0Error
-    else:
-       return x/y
-===========Bug123
-
-def squre(x):
-    return x*x
