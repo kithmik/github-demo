@@ -4,9 +4,12 @@ def add(x,y):
 
 #subtract implementation
 def subtract(x,y):
-     return(x-y)
+     if y>x:
+        return NATIVE_VALUE_ERROR
+     else:
+        return(x-y)
 
-#multiplyimplementation
+#multiply implementation
 def multiply(a,b):
      return(x*y)
 
