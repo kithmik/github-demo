@@ -4,9 +4,9 @@ def add(x,y):
 
 #subtract implementation
 def subtract(x,y):
-     return(x-y)
+     pass
 
-#multiplyimplementation
+#multiply implementation
 def multiply(a,b):
      return(x*y)
 
