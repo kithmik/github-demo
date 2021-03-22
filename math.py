@@ -18,3 +18,6 @@ def multiply(a,b):
 def divide(x,y):
      pass
 
+#square implementation
+def square(x,y):
+     returnx*x
